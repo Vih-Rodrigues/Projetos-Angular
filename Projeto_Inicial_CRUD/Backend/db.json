@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Lenovo",
+      "price": 5000.89
+    },
+    {
+      "id": 3,
+      "name": "Smartphone Samgung",
+      "price": 1200.89
+    },
+    {
+      "name": "Geladeira",
+      "price": "1900.89",
+      "id": 4
+    }
+  ]
+}
