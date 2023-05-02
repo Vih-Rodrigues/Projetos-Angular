@@ -1,0 +1,12 @@
+.footer {
+    position: fixed;
+    bottom: 0; /* Leva o componente para a parte inferior da tela */
+    
+    display: flex;
+    justify-content: flex-end; /* Leva o texto para o lado direito da tela */
+}
+
+.footer > span { /* ">" indica que as seguintes configurações devem ser aplicadas somente em tags span */
+    font-size: 1.1rem; /* Tamanho da fonte */
+    font-weight: 300; /* Peso da fonte */
+}
